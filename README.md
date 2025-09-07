@@ -5,4 +5,5 @@ you left click to guide the ball thing to the red button,
 and if you touch the red guy you will DIE <- (ingame)
 # also
 the game is on itch.io
-link: 
+
+link: https://torsten1356.itch.io/cool-puzzle-game-thing
